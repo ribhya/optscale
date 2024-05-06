@@ -3,7 +3,7 @@ kombu==5.3.4
 boto3==1.34.7
 mongodb-migrations==0.7.0
 retrying==1.3.3
-pandas==2.1.4
+pandas==2.2.2
 pyarrow==14.0.1
 clickhouse-driver==0.2.6
 pyrabbit==1.1.0
