@@ -14,7 +14,7 @@ netaddr==1.2.1
 pydevd-pycharm==201.5616.27
 cryptocode==0.1
 pyyaml==6.0.1
-protobuf==3.20.3
+protobuf==5.27.2
 google-api-python-client==1.7.11
 google-auth-oauthlib==0.4.0
 
